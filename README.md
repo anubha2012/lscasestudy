@@ -1,5 +1,4 @@
-# lscasestudy
-lead scoring case study
+# Lead-Scoring-Case-Study-Upgrad
 Problem Statement
 
  An education company named X Education sells online courses to industry professionals.
@@ -16,4 +15,3 @@ The CEO want to achieve a lead conversion rate of 80%.
 They want the model to be able to handle future constraints as well like Peak time actions required, how to utilize full man power and after achieving target what should be the approaches.
 
 <img src="https://t.bkit.co/w_63cd42b99c9ce.gif" />
-[Assignment Subjective questions.pdf](https://github.com/anubha2012/lscasestudy/files/15285369/Assignment.Subjective.questions.pdf)
